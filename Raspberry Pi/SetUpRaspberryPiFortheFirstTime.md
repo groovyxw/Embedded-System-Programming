@@ -144,11 +144,23 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
     
     
 5. Get the IP information of your Raspberry Pi Board 
+
     Open a terminal and type "ifconfig"
+    
+    
+    
     <img width="285" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199297754-a56fbaee-6443-4337-bb8c-8b1e39f655fa.PNG">
     
+    
+    
+    
+    
+    
+    
+    
+    
     Now you have got the IP information.
-    Note: If you want to connect Raspberry Pi Board with Ethernet cable, use eth0 ip address   information; otherwise, if you want to connect Raspberry Pi board in WIFI mode, use wlan0 ip address information.
+    Note: If you want to connect Raspberry Pi Board with Ethernet cable, use eth0 ip address   information; otherwise, if you want to connect Raspberry Pi board in WIFI mode, use wlan0 ip address information. We will use wlan0 address in my practice.
     
     
     
