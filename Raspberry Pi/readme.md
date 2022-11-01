@@ -1,6 +1,6 @@
 # Description
 
-Exercises on Raspberry Pi 4 Model B
+Hands-on Exercises on Raspberry Pi 4 Model B
 
 lab1 - set up raspberry pi for the first time
 
