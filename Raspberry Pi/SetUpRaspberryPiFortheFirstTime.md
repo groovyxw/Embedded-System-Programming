@@ -41,7 +41,9 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
 
 
 3. Power on 
+
    After power on, you should see the power led is on.
+   
    <img width="308" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199295465-399be5ae-1213-47a3-90fc-a0eff19c93bd.PNG">
 
 
@@ -64,7 +66,10 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
 
 
 4. Config
+
    Following the instruction on the monitor, do configuration.
+   
+   
    <img width="327" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199295913-d2da8a04-dfdb-4979-824a-31648598bdd6.PNG">
    
    
