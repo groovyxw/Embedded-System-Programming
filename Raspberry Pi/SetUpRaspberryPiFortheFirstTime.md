@@ -35,6 +35,8 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
    Connect Monitor, Keyboard and Mouse with your Raspberry Pi Board
    <img width="300" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199295004-e56feafc-18ac-4d10-a074-4bd0f15f9516.PNG">
 
+
+
 3. Power on 
    After power on, you should see the power led is on.
    <img width="308" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199295465-399be5ae-1213-47a3-90fc-a0eff19c93bd.PNG">
@@ -42,6 +44,8 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
    On the monitor, you will see raspberry pi screen.
    
    <img width="328" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199295811-959be2f3-2f43-4ba0-b53c-33e36caa66be.PNG">
+
+
 
 4. Config
    Following the instruction on the monitor, do configuration.
@@ -65,12 +69,16 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
 
     So far, we have done the basic setup for the board already!!!!
     
+    
+    
 5. Get the IP information of your Raspberry Pi Board 
     Open a terminal and type "ifconfig"
     <img width="285" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199297754-a56fbaee-6443-4337-bb8c-8b1e39f655fa.PNG">
     
     Now you have got the IP information.
     Note: If you want to connect Raspberry Pi Board with Ethernet cable, use eth0 ip address   information; otherwise, if you want to connect Raspberry Pi board in WIFI mode, use wlan0 ip address information.
+    
+    
     
 6. Enable SSH and VNC interfaces, otherwise, you could not log in the board by PuTTY/VNC Viewer in next Step. 
     
@@ -79,6 +87,7 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
     
     
     <img width="346" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199298141-86ecd699-6d0b-4f6a-a3f5-e49e52ff0303.PNG">
+    
     
 
 7.	Back to your PC/laptop, Download and Install Tool PuTTy or VNC Viewer
