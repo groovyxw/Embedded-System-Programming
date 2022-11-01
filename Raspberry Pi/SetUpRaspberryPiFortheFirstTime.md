@@ -37,9 +37,23 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
 
 
 
+
+
+
 3. Power on 
    After power on, you should see the power led is on.
    <img width="308" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199295465-399be5ae-1213-47a3-90fc-a0eff19c93bd.PNG">
+
+
+
+
+
+
+
+
+
+
+
 
    On the monitor, you will see raspberry pi screen.
    
@@ -47,23 +61,76 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
 
 
 
+
+
 4. Config
    Following the instruction on the monitor, do configuration.
    <img width="327" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199295913-d2da8a04-dfdb-4979-824a-31648598bdd6.PNG">
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
    <img width="327" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199296031-9f07a4c4-417b-4a3e-9bf6-09975c81d7ef.PNG">
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
     Remember the username and password that are used for logging into your raspberry pi board later.
     
     
     <img width="334" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199296203-a9c8acdc-f968-41c0-af65-e2b609737e88.PNG">
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     <img width="332" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199296551-ec08b3fe-10df-47ac-bc22-f0a25269dc5e.PNG">
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     <img width="338" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199296731-ca872f4f-e98b-4211-a6f4-509550b11352.PNG">
+    
+    
+    
+    
+    
+    
+    
+    
     
     
 
@@ -86,9 +153,25 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
     
     
     
+    
+    
+    
+    
+    
+    
+    
     <img width="346" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199298141-86ecd699-6d0b-4f6a-a3f5-e49e52ff0303.PNG">
     
     
+
+
+
+
+
+
+
+
+
 
 7.	Back to your PC/laptop, Download and Install Tool PuTTy or VNC Viewer
 
@@ -97,7 +180,34 @@ After the above steps are done, you have downloaded the OS into your SD Card suc
     <img width="332" alt="Capture" src="https://user-images.githubusercontent.com/52802567/199298395-3aaf5a35-b6b3-4c6b-9fc0-86d93c67cadd.PNG">
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <img width="339" alt="ssh" src="https://user-images.githubusercontent.com/52802567/199298671-ba7b164d-1a0c-46a3-b3a9-2e88236e08d3.PNG">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
     VNC viewer login:
     
