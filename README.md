@@ -4,7 +4,7 @@
 
 Raspberry Pi Hands on Practice
 
-Under directory Raspberry_Pi
+dir: ./Raspberry_Pi
 
 ## Part II
 
