@@ -11,3 +11,5 @@ lab3 - pushbutton LED
 lab4 - buzzer 
 
 lab5 - 7-segment LED display
+
+lab7 - Motor Ctrl
